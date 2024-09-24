@@ -1,0 +1,20 @@
+﻿country;filename;phase;startyear;endyear;varname;varlabel;newvarname;newvalue
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37a;fansidar taken for fever/cough;othrantimal;3
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37b;chloroquine taken for fever/cough;othrantimal;3
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37c;amodiaquine taken for fever/cough;othrantimal;3
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37d;quinine taken for fever/cough;othrantimal;3
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37e;combination with artemisinin taken for fever/cough;fline;4
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37f;na - cs antimalarial taken for fever/cough;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37g;na - cs antimalarial taken for fever/cough;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37h;other antimalarial taken fever/cough;othrantimal;3
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37i;pills/syrup taken for fever/cough;other;2
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37j;injection taken for fever;other;2
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37k;aspirin taken fever/cough;other;2
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37l;acetaminophen taken for fever/cough;other;2
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37m;ibuprofen taken fever/cough;other;2
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37n;na - cs other taken for fever/cough;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37o;na - cs other for fever/cough;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37p;na - cs other for fever/cough;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37x;other taken for fever/convulsion;other;2
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37y;nothing taken for fever/convulsion;none;1
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h37z;don't know if or what was taken for fever/convulsion;;-8

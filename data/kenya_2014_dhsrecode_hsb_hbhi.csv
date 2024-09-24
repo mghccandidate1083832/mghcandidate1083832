@@ -1,0 +1,25 @@
+﻿country ; filename ; phase ; startyear ; endyear ; varname ; varlabel ; newvarname ; newvalue
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32a ; fever/cough: government hospital ; opd ; 7
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32b ; fever/cough: government  health center ; govcntr ; 5
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32c ; fever/cough: government  dispensary ; govcntr ; 5
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32d ; fever/cough: other public sector ; hcnobeds ; 4
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32e ; na - fever/cough: cs public sector ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32f ; na - fever/cough: cs public sector ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32g ; na - fever/cough: cs public sector ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32h ; na - fever/cough: cs public sector ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32i ; na - fever/cough: cs public sector ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32j ; fever/cough: private hospital/ clinic ; hcbeds ; 6
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32k ; fever/cough: private pharmacy ; self ; 2
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32l ; na - fever/cough: private doctor ; hcnobeds ; 4
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32m ; fever/cough: mission/ hospital clinic ; hcbeds ; 6
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32n ; fever/cough: other private medical ; hcnobeds ; 4
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32o ; na - fever/cough: cs private medical ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32p ; na - fever/cough: cs private medical ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32q ; na - fever/cough: cs private medical ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32r ; na - fever/cough: cs private medical ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32s ; fever/cough: mobile clinic ; hcnobeds ; 4
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32t ; fever/cough: community health worker ; chw ; 3
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32u ; fever/cough: shop ; self ; 2
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32v ; fever/cough: traditional practitioner ; none ; 1
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32w ; fever/cough: relative/ friend ; self ; 2
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h32x ; fever/cough: other ; none ; 1

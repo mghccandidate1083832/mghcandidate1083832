@@ -1,0 +1,12 @@
+﻿country ; filename ; phase ; startyear ; endyear ; varname ; varlabel ; newvarname ; newvalue
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37a ; fansidar taken for fever ; fline ; 4
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37b ; chloroquine taken for fever ; othrantimal ; 3
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37c ; aspirin taken for fever ; other ; 2
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37d ; ibuprofen/acetaminophen ta- na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37e ; amodiaquine taken for fever ; othrantimal ; 3
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37f ; quinine taken for fever ; othrantimal ; 4
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37g ; country specific taken for- na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37h ; country specific taken for- na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37x ; other taken for fever ; other ; 2
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37y ; nothing taken for fever ; none ; 1
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h37z ; don't know if or what was taken ;  ; -8

@@ -1,0 +1,26 @@
+country ; filename ; phase ; startyear ; endyear ; varname ; varlabel ; newvarname ; newvalue
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13a ; fansidar taken for fever ; othrantimal ; 3
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13b ; chloroquine taken for fever ; othrantimal ; 3
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13c ; amodiaquine taken for fever ; othrantimal ; 3
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13d ; quinine taken for fever ; othrantimal ; 3
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13da ; quinine injection/iv taken for fever ; othrantimal ; 3
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13e ; na - combination with artemisinin taken for fever ;  ; 
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; s413a ; al taken for fever ; fline ; 4
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; s413b ; dhap taken for fever ; fline ; 4
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; s413c ; other act (not al or dhap) taken for fever ; othrantimal ; 3
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13aa ; artesunate rectal taken for fever ; othrantimal ; 3
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13ab ; artesunate injection/iv taken for fever ; othrantimal ; 3
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13f ; na - cs antimalarial taken for fever ;  ; 
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13g ; na - cs antimalarial taken for fever ;  ; 
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13h ; other antimalarial taken for fever ; othrantimal ; 3
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13i ; antibiotic pill/syrup taken for fever ; other ; 2
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13j ; antibiotic injection taken for fever ; other ; 2
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13k ; aspirin taken for fever ; other ; 2
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13l ; acetaminophen/paracetamol/panadol taken for fever ; other ; 2
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13m ; ibuprofen taken for fever ; other ; 2
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13n ; amoxicillin taken for fever ; other ; 2
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13o ; cotrimoxazole taken for fever ; other ; 2
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13p ; na - cs other taken for fever ;  ; 
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13x ; other taken for fever ; other ; 2
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13y ; nothing taken and didn't seek treatment for fever/cough ; none ; 1
+kenya ; KEKR81FL2020.DTA ; 8 ; 2020 ; 2020 ; ml13z ; don't know if or what was taken for fever ;  ; -8

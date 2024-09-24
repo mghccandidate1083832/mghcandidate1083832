@@ -1,0 +1,25 @@
+﻿country ; filename ; phase ; startyear ; endyear ; varname ; varlabel ; newvarname ; newvalue
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32a ; fever/cough: government hosp. ; opd ; 7
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32b ; fever/cough: govt health cntr ; govcntr ; 5
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32c ; fever/cough: govt health  - na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32d ; fever/cough: mobile clini - na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32e ; fever/cough: comm.health  - na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32f ; fever/cough: govt dispensary ; govcntr ; 5
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32g ; fever/cough: cs public se - na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32h ; fever/cough: cs public se - na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32i ; fever/cough: oth public sector ; hcnobeds ; 4
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32j ; fever/cough: private hosp/clin ; hcbeds ; 6
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32k ; fever/cough: private pharmacy ; self ; 2
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32l ; fever/cough: private doct - na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32m ; fever/cough: private mobile cl ; hcnobeds ; 4
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32n ; fever/cough: comm.health wrkr ; chw ; 3
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32o ; fever/cough: mission hospital/clinic ; hcbeds ; 6
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32p ; fever/cough: cs med.priv  - na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32q ; fever/cough: cs med.priv  - na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32r ; fever/cough: oth med.priv sect ; hcnobeds ; 4
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32s ; fever/cough: shop ; self ; 2
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32t ; fever/cough: traditional pract ; none ; 1
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32u ; fever/cough: friends/relatives ; self ; 2
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32v ; fever/cough: cs oth.priv s- na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32w ; fever/cough: cs oth.priv s- na ;  ; 
+kenya ; KEKR42FL2003.DTA ; 5 ; 2003 ; 2003 ; h32x ; fever/cough: other ; none ; 1

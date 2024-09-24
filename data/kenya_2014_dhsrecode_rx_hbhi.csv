@@ -1,0 +1,20 @@
+﻿country ; filename ; phase ; startyear ; endyear ; varname ; varlabel ; newvarname ; newvalue
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37a ; sp/fansidar taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37b ; chloroquine taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37c ; amodiaquine taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37d ; quinine taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37e ; combination with artemisinin taken for fever/cough ; fline ; 4
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37f ; na - cs antimalarial taken for fever/cough ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37g ; na - cs antimalarial taken for fever/cough ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37h ; other antimalarial taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37i ; antibiotic pill/syrup taken for fever/cough ; other ; 2
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37j ; antibiotic injection taken for fever/cough ; other ; 2
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37k ; aspirin taken for fever/cough ; other ; 2
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37l ; acetaminophen/paracetamol/panadol taken for fever/cough ; other ; 2
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37m ; ibuprofen taken for fever/cough ; other ; 2
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37n ; na - cough/allergies medicines taken for fever/cough ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37o ; na - amox./piriton taken for fever/cough ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37p ; na - septrim (antibiotics) taken for fever/cough ;  ; 
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37x ; other taken for fever/cough ; other ; 2
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37y ; nothing taken for fever/cough ; none ; 1
+kenya ; KEKR72FL2014.DTA ; 7 ; 2014 ; 2014 ; h37z ; don't know if or what was taken for fever/cough ;  ; -8

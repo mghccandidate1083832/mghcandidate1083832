@@ -1,0 +1,25 @@
+﻿country;filename;phase;startyear;endyear;varname;varlabel;newvarname;newvalue
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32a;fever/cough: government hosp.;opd;7
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32b;fever/cough: govt health cntr;govcntr;5
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32c;na - fever/cough: govt health post;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32d;na - fever/cough: mobile clinic;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32e;na - fever/cough: comm.health wrkr;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32f;fever/cough: government dispensary;govcntr;5
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32g;na - fever/cough: cs public sector;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32h;na - fever/cough: cs public sector;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32i;fever/cough: oth public sector;hcnobeds;4
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32j;fever/cough: private hosp/clin;hcbeds;6
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32k;fever/cough: private pharmacy;self;2
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32l;na - fever/cough: private doctor;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32m;na - fever/cough: private mobile cl;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32n;na - fever/cough: comm.health wrkr;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32o;fever/cough: faith-based/ church/ mission hospital/ clinic;hcbeds;6
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32p;fever/cough: mobile clinic;hcnobeds;4
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32q;fever/cough: community health worker;chw;3
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32r;fever/cough: oth med.priv sect;hcnobeds;4
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32s;fever/cough: shop;self;2
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32t;fever/cough: traditional pract;none;1
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32u;fever/cough: friend/ relative;self;2
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32v;na - fever/cough: cs oth.priv sect;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32w;na - fever/cough: cs oth.priv sect;;
+kenya;KEKR52FL20082009.DTA;4;2008;2009;h32x;fever/cough: other;none;1

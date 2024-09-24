@@ -1,0 +1,25 @@
+﻿country;filename;phase;startyear;endyear;varname;varlabel;newvarname;newvalue
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37a;sp/fansidar taken for fever;othrantimal;3
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37b;chloroquine taken for fever;othrantimal;3
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37c;amodiaquine taken for fever;othrantimal;3
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37d;quinine pills taken for fever;othrantimal;3
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37da;quinine injection/iv taken for fever;othrantimal;3
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37e;combination with artemisinin taken for fever;fline;4
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37aa;artesunate rectal taken for fever;othrantimal;3
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37ab;artesunate injection/iv taken for fever;othrantimal;3
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37f;na - cs other taken for fever;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37g;na - cs other taken for fever;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37h;other antimalarial taken for fever;othrantimal;3
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37i;other pill/syrup taken for fever;other;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37j;other injection/iv taken for fever;other;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37k;aspirin taken for fever;other;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37l;paracetamol/panadol/acetaminophen taken for fever;other;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37m;ibuprofen taken for fever;other;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37n;amoxicillin taken for fever;other;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37o;cotrimoxazole taken for fever/cough;other;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37p;oxygen taken for fever;other;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37q;na - cs other for fever/cough;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37r;na - cs other for fever/cough;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37x;other taken for fever;other;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37y;nothing taken and didn't seek treatment for fever/cough;none;1
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h37z;don't know if or what was taken for fever/convulsion;;-8

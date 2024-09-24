@@ -1,0 +1,20 @@
+﻿country ; filename ; phase ; startyear ; endyear ; varname ; varlabel ; newvarname ; newvalue
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13a ; fansidar taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13b ; chloroquine taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13c ; amodiaquine taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13d ; quinine ( pills ) taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13e ; combination with artemisinin taken for fever/cough ; fline ; 4
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13f ; quinine ( injection/iv )taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13g ; artesunate ( rectal ) taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13h ; other antimalarial taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13i ; antibiotic pill/syrup taken for fever/cough ; other ; 2
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13j ; antibiotic injection taken for fever/cough ; other ; 2
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13k ; aspirin taken for fever/cough ; other ; 2
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13l ; acetaminophen/paracetamol/panadol taken for fever/cough ; other ; 2
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13m ; ibuprofen taken for fever/cough ; other ; 2
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13n ; artesunate ( injection ) taken for fever/cough ; othrantimal ; 3
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13o ; na - cs other taken for fever/cough ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13p ; na - cs other taken for fever/cough ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13x ; other taken for fever/cough ; other ; 2
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13y ; nothing taken and didn't seek treatment for fever/cough ; none ; 1
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; ml13z ; don't know if or what was taken for fever/cough ;  ; -8

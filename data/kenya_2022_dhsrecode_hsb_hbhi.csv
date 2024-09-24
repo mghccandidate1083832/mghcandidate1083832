@@ -1,0 +1,30 @@
+﻿country;filename;phase;startyear;endyear;varname;varlabel;newvarname;newvalue
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32a;fever/cough: government hospital.;opd;7
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32b;fever/cough: government health center;govcntr;5
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32c;fever/cough: government dispensary;govcntr;5
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32d;fever/cough: public mobile clinic;hcnobeds;4
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32e;fever/cough: community health worker/fieldworker;chw;3
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32f;fever/cough: other public sector;hcnobeds;4
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32g;na - fever/cough: cs public sector;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32h;na - fever/cough: cs public sector;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32i;na - fever/cough: cs public sector;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32j;fever/cough: private hospital/clin;hcbeds;6
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32k;fever/cough: private pharmacy;self;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32l;fever/cough: private doctor;hcnobeds;4
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32m;fever/cough: private clinic;hcbeds;6
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32n;fever/cough: private mobile clinic;hcnobeds;4
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32o;fever/cough: community health worker/fieldworker;chw;3
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32p;fever/cough: other private medical sector;hcnobeds;4
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32q;na - fever/cough: cs private medical;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32r;na - fever/cough: cs private medical;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32na;fever/cough: ngo hospital;hcbeds;6
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32nb;fever/cough: ngo clinic;hcnobeds;4
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32nd;fever/cough: all faith based sources mission hospital clinic;hcbeds;6
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32nc;fever/cough: other ngo medical sector;hcnobeds;5
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32ne;na - fever/cough: cs ngo;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32s;fever/cough: shop;self;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32t;fever/cough: traditional practitioner;none;1
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32u;fever/cough: market;self;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32v;fever/cough: itinerant drug seller;self;2
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32w;na - fever/cough: cs other shop;;
+kenya;KEKR8BFL2022.DTA;8;2022;2022;h32x;fever/cough: other;none;1

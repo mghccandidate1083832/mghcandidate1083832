@@ -1,0 +1,25 @@
+﻿country ; filename ; phase ; startyear ; endyear ; varname ; varlabel ; newvarname ; newvalue
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32a ; fever/cough: government hospital ; opd ; 7
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32b ; fever/cough: government health center ; govcntr ; 5
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32c ; fever/cough: government dispensary ; govcntr ; 5
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32d ; fever/cough: other public ; hcnobeds ; 4
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32e ; na - fever/cough: cs public sector ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32f ; na - fever/cough: cs public sector ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32g ; na - fever/cough: cs public sector ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32h ; na - fever/cough: cs public sector ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32i ; na - fever/cough: cs public sector ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32j ; fever/cough: mission hospital / clinic ; hcbeds ; 6
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32k ; fever/cough: pharmacy ; self ; 2
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32l ; fever/cough: private hospital / clinic ; hcbeds ; 6
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32m ; fever/cough: other private ; hcnobeds ; 4
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32n ; fever/cough: mobile clinic ; hcnobeds ; 4
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32o ; fever/cough: community health worker ; chw ; 3
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32p ; na - fever/cough: cs private medical ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32q ; na - fever/cough: cs private medical ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32r ; na - fever/cough: cs private medical ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32s ; fever/cough: shop ; self ; 2
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32t ; fever/cough: traditional healer ; none ; 1
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32u ; fever/cough: relative/friend ; self ; 2
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32v ; na - fever/cough: cs other sector ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32w ; na - fever/cough: cs other sector ;  ; 
+kenya ; KEKR7AFL2015.DTA ; 7 ; 2015 ; 2015 ; h32x ; fever/cough: other ; none ; 1
